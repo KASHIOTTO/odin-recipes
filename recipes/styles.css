@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+
+#steps{
+    color: rgb(66, 106, 207);
+    text-align: left;
+}
+
+#ingredients{
+    color: rgb(66, 106, 207);
+    text-align: left;
+}
+
+.description{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+center{
+    height: auto;
+    width: 400px;
+    text-align: center;
+}
